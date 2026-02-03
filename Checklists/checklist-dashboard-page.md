@@ -1,10 +1,10 @@
 # Checklist: Admin Dashboard
 
-**Created By:** Mikhail Basov
+**Created By:** M.B.
 
 **Date of Creation:** 2026-01-31
 
-**Executed By:** Mikhail Basov
+**Executed By:** M.B.
 
 **Date of Execution:** 2026-01-31
 

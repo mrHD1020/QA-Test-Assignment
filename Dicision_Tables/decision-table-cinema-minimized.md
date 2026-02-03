@@ -1,5 +1,9 @@
 # Decision Table - Cinema (Minimized)
 
+**Created By:** M.B.
+
+**Date of Creation:** 2026-01-29
+
 | Test Case | Student | Retiree | Birthday | Before 14:00 | Expected Discount |
 | --------- | ------- | ------- | -------- | ------------ | ----------------- |
 | TC-01     | No      | No      | No       | No           | 0%                |

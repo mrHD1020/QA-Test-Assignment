@@ -1,6 +1,6 @@
 # Bug Reports: Test QA Site
 
-**Reported By:** Mikhail Basov
+**Reported By:** M.B.
 
 **Date of Reporting:** 2026-01-31
 
